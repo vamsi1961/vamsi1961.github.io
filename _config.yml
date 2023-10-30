@@ -1,0 +1,99 @@
+### Site Settings ###
+title               : Cheedella Vamsi Kishore
+description         : >- 
+                      From data science to movie talk and exploring the world, I wear many hats. 🎩📊🎥✈️ Join me in conversations about math, AI, cinema and travel. 🤖🌎
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : mano3-1/mano3-1.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : udaygirish/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/testblog.md
+  - pages/fquotes.md
+  - pages/status.md
+  - pages/contact.md
+  - pages/projects.html
+
+  #  - pages/contact.html
+
+### Author Info ###
+author:
+  name              : Sai Manoj Akondi
+  image             : ./assets/manoj.jpg
+# behance           : your_username
+# dribbble          : your_username
+  email             : manojakondi25@gmail.com
+# facebook          : your_username
+  github            : mano3-1
+# gitlab            : your_username
+  instagram         : gradient.eater
+  kaggle            : saimanojakondi
+  linkedin          : manoj-akondi
+  medium            : manoj_akondi
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : AkondiManoj
+# vimeo             : your_username
+  youtube           : mrai2039
+  # quora             : Uday-Girish-Maradana
+  resume            : manoj_cv.pdf
+  # cv                : manoj_cv.pdf
+  
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+### Disqus ###                        
+disqus:        # Your website Shortname on disqus
+  shortname: https-saimanoj-github-io  
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: UA-175164060-1
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true                                  # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "skills"
+    values:
+      comments: false 
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

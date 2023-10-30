@@ -1,0 +1,13 @@
+- name: SolidWorks
+  percentage: 60
+  color: info
+
+- name: Ansys
+  percentage: 20
+  color: danger
+  
+- name: Catia
+  percentage: 40
+  color: danger
+
+

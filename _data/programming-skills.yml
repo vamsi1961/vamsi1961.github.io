@@ -1,0 +1,22 @@
+- name: Python
+  percentage: 80
+  color: success
+
+- name: C++
+  percentage: 55
+  color: info
+
+- name: C
+  percentage: 60
+  color: info
+
+- name: SQL
+  percentage: 60
+  color: info
+
+
+
+
+
+
+
