@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Cheedella Vamsi Kishore
 description         : >- 
-                      From data science to movie talk and exploring the world, I wear many hats. 🎩📊🎥✈️ Join me in conversations about math, AI, cinema and travel. 🤖🌎
+                      From Robotics to finance and exploring the world, I wear many hats. 🎩📊🎥✈️ Join me in conversations about math, Finance, cinema and travel. 🤖🌎
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : mano3-1/mano3-1.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : vamsi1961/vamsi1961.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : udaygirish/portfolYOU
 
 
@@ -23,34 +23,34 @@ nav_exclude:                                            # The following paths ar
   - pages/contact.md
   - pages/projects.html
 
-  #  - pages/contact.html
+#  - pages/contact.html
 
 ### Author Info ###
 author:
-  name              : Sai Manoj Akondi
+  name              : Cheedella Vamsi Kishore
   image             : ./assets/manoj.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : manojakondi25@gmail.com
+  email             : cheedellavamsikishore@gmail.com
 # facebook          : your_username
-  github            : mano3-1
+  github            : vamsi1961
 # gitlab            : your_username
-  instagram         : gradient.eater
+  instagram         : kishore__1961
   kaggle            : saimanojakondi
-  linkedin          : manoj-akondi
-  medium            : manoj_akondi
+  linkedin          : cheedella-vamsi-kishore
+  medium            : cheedellavamsikishore
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : AkondiManoj
+#  twitter           : AkondiManoj
 # vimeo             : your_username
-  youtube           : mrai2039
-  # quora             : Uday-Girish-Maradana
+#  youtube           : mrai2039
+# quora             : Uday-Girish-Maradana
   resume            : manoj_cv.pdf
-  # cv                : manoj_cv.pdf
-  
+# cv                : manoj_cv.pdf
+
 
 ### Posts ###
 permalink: /blog/:title
@@ -64,7 +64,7 @@ collections:
 
 ### Disqus ###                        
 disqus:        # Your website Shortname on disqus
-  shortname: https-saimanoj-github-io  
+  shortname: https-kishore-github-io  
 
 ### Analytics ###
 analytics:
