@@ -1,14 +1,9 @@
-- name: AWS
-  percentage: 60
-  color: info
+
 
 - name: Docker
   percentage: 70
   color: info
 
-- name: Jenkins
-  percentage: 65
-  color: info
 
 - name: Git
   percentage: 80

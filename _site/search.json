@@ -6,6 +6,30 @@
       "tags"     : "updating!!",
       "url"      : "/blog/updating",
       "date"     : "2023-10-29 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Path Tracking - Pure Pursuit",
+      "category" : "",
+      "tags"     : "Robotics",
+      "url"      : "/blog/pure-pursuit-copy",
+      "date"     : "2023-02-26 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Path Planning - A-star",
+      "category" : "",
+      "tags"     : "Robotics",
+      "url"      : "/blog/A-star",
+      "date"     : "2023-02-26 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Path Planning - Dijkstra",
+      "category" : "",
+      "tags"     : "Robotics",
+      "url"      : "/blog/Dijkstra",
+      "date"     : "2023-02-16 00:00:00 +0530"
     } 
   
 ]

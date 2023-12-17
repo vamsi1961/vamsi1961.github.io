@@ -8,14 +8,13 @@ weight: 6
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a ML Engineer, currently working at Tiger Analytics India Pvt Ltd. Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning <br>
+I am a Robotics Software Intern, currently working at Void Robotics. Most of my work is related to Robotics, Path planning <br>
+
 <br>
-Email: manojakondi25@gmail.com (For Casual Queries/ Work Related)\
-Alternate email : misterai2022@gmail.com (For youtube collaborations)
-<br>
+Email: cheedellavamsikishore@gmail.com (For Casual Queries/ Work Related)
+</br>
 
 Want to know more about me? or hire me? => then download my CV [here](https://github.com/mano3-1/mano3-1.github.io/raw/main/assets/manoj_cv.pdf) :smiley: <br>
-
 
 # **Work-Experience**
 <div class="row">

@@ -1,13 +1,13 @@
-- name: SolidWorks
-  percentage: 60
+- name: Matlab
+  percentage: 70
   color: info
 
-- name: Ansys
-  percentage: 20
+- name: Gazebo
+  percentage: 60
   color: danger
   
-- name: Catia
-  percentage: 40
+- name: Arduino
+  percentage: 90
   color: danger
 
 
