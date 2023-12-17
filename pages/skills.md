@@ -10,6 +10,6 @@ weight: 4
 {% include about/skills.html title="AI-ML-Datascience" source=site.data.AI-ML-DS-skills %}
 {% include about/skills.html title="Cloud Computing" source=site.data.cloudcomputing-skills %}
 {% include about/skills.html title="Interpersonal" source=site.data.interpersonal-skills %}
-{% include about/skills.html title="Electrical and Electronics" source=site.data.Electrical and Electronics %}
+{% include about/skills.html title="Electrical and Electronics" source=site.data.Electrical-and-Electronics %}
 {% include about/skills.html title="Other" source=site.data.other-skills %}
 </div>
