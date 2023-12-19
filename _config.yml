@@ -48,7 +48,7 @@ author:
 # vimeo             : your_username
 #  youtube           : mrai2039
 # quora             : Uday-Girish-Maradana
-  resume            : manoj_cv.pdf
+  resume            : Kishore_cv.pdf
 # cv                : manoj_cv.pdf
 
 
@@ -64,7 +64,7 @@ collections:
 
 ### Disqus ###                        
 disqus:        # Your website Shortname on disqus
-  shortname: https-kishore-github-io  
+  shortname: https-vamsi1961-github-io  
 
 ### Analytics ###
 analytics:
