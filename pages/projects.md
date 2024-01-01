@@ -128,12 +128,7 @@ a nonlinear open circuit voltage and a second order resistance-capacitance model
 - Robotics
 - Electronics
 
-**Responsibilities:** 
 
-- Model Development, Training, and Evaluation
-- Model Deployment
-- Integrating model deployments with other cloud components
-- Pipeline regular maintenance metadata scripts
 
 ### Personal (Passion) level:
 
