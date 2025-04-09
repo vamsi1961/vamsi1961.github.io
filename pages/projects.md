@@ -7,25 +7,81 @@ weight: 1
 
 ## **Projects - Professional /Internships**
 
-### **Capgemini**
-
-<ul>
-<li> Develop and maintain an attendance management system using Python.   </li>
-<li> Develop a credit card parser using provided parser code. </li>
-
-</ul>
-
-### **Void Robitics**
-
-<ul>
-<li> Created a Ignition world with dynamic obstacles with Turtlebot4 and vizualized in RVIZ.  </li>
-<li> Autonmous waypoint navigation </li>
-<li> Collision Detection for turtlebot3. </li>
-<li> Camera Integration and Object Detection in Ignition </li>
-</ul>
+# **Capgemini**
+## Projects
 
 
-## **Projects - Academic/Personal**
+## AI-Driven Agile Workflow Automation
+
+- **Efficiency Impact**: Our current product increases the efficiency of Scrum Masters by ~45% in large teams and ~30% in small teams.
+- **Profile**: Results-driven **Senior Python Developer** with expertise in AI-driven automation, Retrieval-Augmented Generation (RAG), Crew AI, and AI security using **Flask**, **ChromaDB**, **Azure GPT API**, and **Azure DevOps**.
+- **Current Work**: Leading initiatives in **document intelligence**, **Azure Board automation via RAG**, **chatbot evaluation**, and **workflow optimization** for both **efficiency** and **security**.
+
+---
+
+### Agile Intelligence
+
+- **Automation System**: Developed a GPT-driven system to automate Agile artifacts (Epics, Features, User Stories, Test Cases, Personas, and Tasks) with a structured, scalable approach.
+- **Prompt Engineering**:
+  - Structured & Few-shot prompting for consistency.
+  - Role-based prompting for stakeholder alignment.
+  - Chain of Thought (CoT) prompting for test case generation.
+- **Task Planning**: Applied **hierarchical decomposition** for systematic task breakdown to enhance Agile planning.
+
+---
+
+### Doc Intelligence
+
+- **InsightFlow**:
+  - Implemented **iterative summarization** for processing both structured and unstructured documents.
+  - Used **semantic chunking** and a **fixed-length sliding window** (70k tokens, 20% overlap) to handle documents with over 30,000 words while preserving context.
+
+- **Ask Doc**:
+  - For **structured documents**: Used **semantic chunking**.
+  - For **unstructured text**: Used **fixed-length chunking** with overlap.
+  - Combined retrieved vector chunks with document summary to generate accurate responses via **GPT API**.
+
+---
+
+### Deduplication
+
+- Built a **vector database-powered deduplication system** to identify and link similar test cases in Azure DevOps.
+- Used **semantic similarity** via embeddings of titles and descriptions to find related test cases above a similarity threshold.
+- Achieved **automated traceability** and **optimized test coverage**.
+
+---
+
+### Root Cause Analysis for Bugs
+
+- Designed a **RAG-based RCA system** using **ChromaDB** to retrieve relevant tasks and user stories.
+- Used **role-based prompting** (Developer, QA, PM) to identify failure points, significantly improving debugging efficiency.
+
+---
+
+### Test Case Prioritization
+
+- Parsed and analyzed **10,000+ test cases** from Azure DevOps to assign **Complexity**, **Dependency**, and **Criticality** scores using **Azure GPT API**.
+- Employed **async function calls** for parallel processing, improving scoring speed by **5x**.
+- Integrated **Few-shot prompting** and **CoT prompting** for accurate test case evaluation.
+
+---
+
+### Response Shield AI
+
+- **Multi-turn Testing**: Validates chatbot behavior across full conversations.
+- Measures **answer relevancy**, **bias**, **toxicity**, and **hallucinations** to ensure **coherent**, **responsible**, and **ethical** AI responses.
+
+## Life Insurance Prediction
+
+- Developed a **production-ready pipeline** to predict life insurance premiums using personal, health, and financial data, delivering **fast and accurate predictions** with **LightGBM**.
+- **Feature Engineering**: Applied **correlation analysis** and domain expertise to reduce the feature set from 18 to 14 by creating task-specific features while preserving predictive power.
+- Used **SHAP values** to validate model interpretability for stakeholders, ensuring transparency and trust in predictions.
+- **Model Benchmarking**: Evaluated **XGBoost**, **CatBoost**, and **GradientBoosting**; selected **LightGBM** for its superior accuracy and performance.
+
+
+
+
+# **Projects - Academic/Personal**
     
 1. Autonomous Underwater Vehicle (AUV) :
 
@@ -89,7 +145,7 @@ a nonlinear open circuit voltage and a second order resistance-capacitance model
 </ul>
 
 
-## **Fun Projects**
+# **Fun Projects**
 
 
 7. Micro mouse [[code]](https://github.com/vamsi1961/Micro_Mouse):
@@ -116,9 +172,9 @@ a nonlinear open circuit voltage and a second order resistance-capacitance model
 ---
 ---
 
-## Roles, Responsibilities and Interests
+# Roles, Responsibilities and Interests
 
-### Professional  Level:
+## Professional  Level:
 
 **Domain Knowledge:**
 
@@ -127,6 +183,10 @@ a nonlinear open circuit voltage and a second order resistance-capacitance model
 - Artificial Intelligence
 - Robotics
 - Electronics
+- Langchain
+- Large Language model
+- GenAI
+- Vector Databases
 
 
 
