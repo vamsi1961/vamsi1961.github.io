@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Projects
+title: Work experience
 permalink: /projects/
 weight: 1
 ---
 
-## **Projects - Professional /Internships**
+## **Woek Experience - Professional /Internships**
 
 # **Capgemini**
-## Projects
 
 
 ## AI-Driven Agile Workflow Automation
@@ -17,7 +16,6 @@ weight: 1
 - **Profile**: Results-driven **Senior Python Developer** with expertise in AI-driven automation, Retrieval-Augmented Generation (RAG), Crew AI, and AI security using **Flask**, **ChromaDB**, **Azure GPT API**, and **Azure DevOps**.
 - **Current Work**: Leading initiatives in **document intelligence**, **Azure Board automation via RAG**, **chatbot evaluation**, and **workflow optimization** for both **efficiency** and **security**.
 
----
 
 ### Agile Intelligence
 
@@ -28,7 +26,6 @@ weight: 1
   - Chain of Thought (CoT) prompting for test case generation.
 - **Task Planning**: Applied **hierarchical decomposition** for systematic task breakdown to enhance Agile planning.
 
----
 
 ### Doc Intelligence
 
@@ -41,7 +38,6 @@ weight: 1
   - For **unstructured text**: Used **fixed-length chunking** with overlap.
   - Combined retrieved vector chunks with document summary to generate accurate responses via **GPT API**.
 
----
 
 ### Deduplication
 
@@ -49,14 +45,12 @@ weight: 1
 - Used **semantic similarity** via embeddings of titles and descriptions to find related test cases above a similarity threshold.
 - Achieved **automated traceability** and **optimized test coverage**.
 
----
 
 ### Root Cause Analysis for Bugs
 
 - Designed a **RAG-based RCA system** using **ChromaDB** to retrieve relevant tasks and user stories.
 - Used **role-based prompting** (Developer, QA, PM) to identify failure points, significantly improving debugging efficiency.
 
----
 
 ### Test Case Prioritization
 
@@ -64,7 +58,6 @@ weight: 1
 - Employed **async function calls** for parallel processing, improving scoring speed by **5x**.
 - Integrated **Few-shot prompting** and **CoT prompting** for accurate test case evaluation.
 
----
 
 ### Response Shield AI
 
