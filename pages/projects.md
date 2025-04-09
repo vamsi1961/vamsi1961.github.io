@@ -10,7 +10,7 @@ weight: 1
 # **Capgemini**
 
 
-**AI-Driven Agile Workflow Automation**
+## **AI-Driven Agile Workflow Automation**
 
 - **Efficiency Impact**: Our current product increases the efficiency of Scrum Masters by ~45% in large teams and ~30% in small teams.
 - **Profile**: Results-driven **Senior Python Developer** with expertise in AI-driven automation, Retrieval-Augmented Generation (RAG), Crew AI, and AI security using **Flask**, **ChromaDB**, **Azure GPT API**, and **Azure DevOps**.
