@@ -10,59 +10,59 @@ weight: 1
 # **Capgemini**
 
 
--    ## AI-Driven Agile Workflow Automation
+**AI-Driven Agile Workflow Automation**
 
-    - **Efficiency Impact**: Our current product increases the efficiency of Scrum Masters by ~45% in large teams and ~30% in small teams.
-    - **Profile**: Results-driven **Senior Python Developer** with expertise in AI-driven automation, Retrieval-Augmented Generation (RAG), Crew AI, and AI security using **Flask**, **ChromaDB**, **Azure GPT API**, and **Azure DevOps**.
-    - **Current Work**: Leading initiatives in **document intelligence**, **Azure Board automation via RAG**, **chatbot evaluation**, and **workflow optimization** for both **efficiency** and **security**.
-
-
-    ### Agile Intelligence
-
-    - **Automation System**: Developed a GPT-driven system to automate Agile artifacts (Epics, Features, User Stories, Test Cases, Personas, and Tasks) with a structured, scalable approach.
-    - **Prompt Engineering**:
-    - Structured & Few-shot prompting for consistency.
-    - Role-based prompting for stakeholder alignment.
-    - Chain of Thought (CoT) prompting for test case generation.
-    - **Task Planning**: Applied **hierarchical decomposition** for systematic task breakdown to enhance Agile planning.
+- **Efficiency Impact**: Our current product increases the efficiency of Scrum Masters by ~45% in large teams and ~30% in small teams.
+- **Profile**: Results-driven **Senior Python Developer** with expertise in AI-driven automation, Retrieval-Augmented Generation (RAG), Crew AI, and AI security using **Flask**, **ChromaDB**, **Azure GPT API**, and **Azure DevOps**.
+- **Current Work**: Leading initiatives in **document intelligence**, **Azure Board automation via RAG**, **chatbot evaluation**, and **workflow optimization** for both **efficiency** and **security**.
 
 
-    ### Doc Intelligence
+### Agile Intelligence
 
-    - **InsightFlow**:
-    - Implemented **iterative summarization** for processing both structured and unstructured documents.
-    - Used **semantic chunking** and a **fixed-length sliding window** (70k tokens, 20% overlap) to handle documents with over 30,000 words while preserving context.
-
-    - **Ask Doc**:
-    - For **structured documents**: Used **semantic chunking**.
-    - For **unstructured text**: Used **fixed-length chunking** with overlap.
-    - Combined retrieved vector chunks with document summary to generate accurate responses via **GPT API**.
+- **Automation System**: Developed a GPT-driven system to automate Agile artifacts (Epics, Features, User Stories, Test Cases, Personas, and Tasks) with a structured, scalable approach.
+- **Prompt Engineering**:
+  - Structured & Few-shot prompting for consistency.
+  - Role-based prompting for stakeholder alignment.
+  - Chain of Thought (CoT) prompting for test case generation.
+- **Task Planning**: Applied **hierarchical decomposition** for systematic task breakdown to enhance Agile planning.
 
 
-    ### Deduplication
+### Doc Intelligence
 
-    - Built a **vector database-powered deduplication system** to identify and link similar test cases in Azure DevOps.
-    - Used **semantic similarity** via embeddings of titles and descriptions to find related test cases above a similarity threshold.
-    - Achieved **automated traceability** and **optimized test coverage**.
+- **InsightFlow**:
+  - Implemented **iterative summarization** for processing both structured and unstructured documents.
+  - Used **semantic chunking** and a **fixed-length sliding window** (70k tokens, 20% overlap) to handle documents with over 30,000 words while preserving context.
 
-
-    ### Root Cause Analysis for Bugs
-
-    - Designed a **RAG-based RCA system** using **ChromaDB** to retrieve relevant tasks and user stories.
-    - Used **role-based prompting** (Developer, QA, PM) to identify failure points, significantly improving debugging efficiency.
-
-
-    ### Test Case Prioritization
-
-    - Parsed and analyzed **10,000+ test cases** from Azure DevOps to assign **Complexity**, **Dependency**, and **Criticality** scores using **Azure GPT API**.
-    - Employed **async function calls** for parallel processing, improving scoring speed by **5x**.
-    - Integrated **Few-shot prompting** and **CoT prompting** for accurate test case evaluation.
+- **Ask Doc**:
+  - For **structured documents**: Used **semantic chunking**.
+  - For **unstructured text**: Used **fixed-length chunking** with overlap.
+  - Combined retrieved vector chunks with document summary to generate accurate responses via **GPT API**.
 
 
-    ### Response Shield AI
+### Deduplication
 
-    - **Multi-turn Testing**: Validates chatbot behavior across full conversations.
-    - Measures **answer relevancy**, **bias**, **toxicity**, and **hallucinations** to ensure **coherent**, **responsible**, and **ethical** AI responses.
+- Built a **vector database-powered deduplication system** to identify and link similar test cases in Azure DevOps.
+- Used **semantic similarity** via embeddings of titles and descriptions to find related test cases above a similarity threshold.
+- Achieved **automated traceability** and **optimized test coverage**.
+
+
+### Root Cause Analysis for Bugs
+
+- Designed a **RAG-based RCA system** using **ChromaDB** to retrieve relevant tasks and user stories.
+- Used **role-based prompting** (Developer, QA, PM) to identify failure points, significantly improving debugging efficiency.
+
+
+### Test Case Prioritization
+
+- Parsed and analyzed **10,000+ test cases** from Azure DevOps to assign **Complexity**, **Dependency**, and **Criticality** scores using **Azure GPT API**.
+- Employed **async function calls** for parallel processing, improving scoring speed by **5x**.
+- Integrated **Few-shot prompting** and **CoT prompting** for accurate test case evaluation.
+
+
+### Response Shield AI
+
+- **Multi-turn Testing**: Validates chatbot behavior across full conversations.
+- Measures **answer relevancy**, **bias**, **toxicity**, and **hallucinations** to ensure **coherent**, **responsible**, and **ethical** AI responses.
 
 ## Life Insurance Prediction
 
