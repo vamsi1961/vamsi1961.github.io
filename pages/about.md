@@ -14,7 +14,7 @@ I am a Robotics Software Intern, currently working at Void Robotics. Most of my 
 Email: cheedellavamsikishore@gmail.com (For Casual Queries/ Work Related)
 </br>
 
-Want to know more about me? or hire me? => then download my CV [here](https://github.com/vamsi1961/vamsi1961.github.io/blob/main/assets/Kishore_cv.pdf) :smiley: <br>
+Want to know more about me? or hire me? => then download my CV [here](https://github.com/vamsi1961/vamsi1961.github.io/blob/main/assets/Vamsi_Resume.pdf) :smiley: <br>
 
 # **Work-Experience**
 <div class="row">
