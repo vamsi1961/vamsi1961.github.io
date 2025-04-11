@@ -8,7 +8,7 @@ weight: 6
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a Robotics Software Intern, currently working at Void Robotics. Most of my work is related to Robotics, Path planning <br>
+I am a Associate Consultant, currently working at CApgemini. Most of my work is related to RAG, LLM, ML <br>
 
 <br>
 Email: cheedellavamsikishore@gmail.com (For Casual Queries/ Work Related)
